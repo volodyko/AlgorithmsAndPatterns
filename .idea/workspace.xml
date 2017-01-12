@@ -1,7 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f3260d6-f699-4f25-9e36-04f59cba14c5" name="Default" comment="" />
+    <list default="true" id="9f3260d6-f699-4f25-9e36-04f59cba14c5" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/adapter/AddapterMain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/adapter/Calculator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/adapter/CalculatorAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/adapter/IntegerValue.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/adapter/Rect.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/adapter/Triangle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/algorithm/QuickUnion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/chain/ChainMain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/chain/EmailErrorHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/chain/FaxErrorHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/chain/IssueRaiser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/chain/Message.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/chain/MessagePriority.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/chain/Receiver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/ADTStack$Launcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/ADTStack$Revercer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/ADTStack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/Collection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/Data.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/OrederedArray$Launcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/OrederedArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/PriorityQueue$Launcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/PriorityQueue.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/Queue$Launcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/Queue.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/adts/DoubleLinkedListLauncher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/adts/DoublyLinkedList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/adts/Queue.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/adts/QueueLauncher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/adts/SortedList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/adts/SortedListLauncher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/adts/Stack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/adts/StackLauncher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/linkedlist/IteratorLauncher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/linkedlist/Launcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/linkedlist/LauncherTwoWay.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/linkedlist/Link.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/linkedlist/LinkList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/linkedlist/ListIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/linkedlist/TwoWayList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/sorts/nontrivial/ArrayPartioning$ArrayPar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/sorts/nontrivial/ArrayPartioning.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/sorts/nontrivial/QuickSort$ArrayIns.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/sorts/nontrivial/QuickSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/sorts/nontrivial/QuickSortMedian$ArrayIns.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/sorts/nontrivial/QuickSortMedian.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/sorts/nontrivial/ShellSort$ArraySh.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/sorts/nontrivial/ShellSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/sorts/simple/BinarySearch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/sorts/simple/BubbleArray$Launcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/sorts/simple/BubbleArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/sorts/simple/InsertionSort$Launcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/sorts/simple/InsertionSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/sorts/simple/MergeSort$DArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/sorts/simple/MergeSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/sorts/simple/SelectionArray$Launcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/sorts/simple/SelectionArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/sorts/simple/SortedArrayMerger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/tree/HashTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/tree/Traversal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/tree/TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/collection/tree/TreeTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/command/Command.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/command/CommandMain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/command/Invoke.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/command/Receiver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/command/RedoCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/command/UndoCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/decorator/Circle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/decorator/DecoratorMain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/decorator/Rectangle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/decorator/RedShapeDecorator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/decorator/Shape.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/decorator/ShapeDecorator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/dif_image/ImgDiffPercent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/facade/FacadeMain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/facade/RobotBody.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/facade/RobotColor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/facade/RobotFacade.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/freetts/FreeTtsMain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/frontcontroller/BaseView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/frontcontroller/Dispatcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/frontcontroller/FrontController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/frontcontroller/HomeView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/frontcontroller/MainFrontController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/frontcontroller/StudentView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/iterator/Arts$ArtsIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/iterator/Arts.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/iterator/Iterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/iterator/IteratorMain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/iterator/Science$ScienceIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/iterator/Science.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/iterator/Subject.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/logistic/Logistic$Instance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/logistic/Logistic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/mediator/Boss.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/mediator/ConcrteteMediator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/mediator/Friend.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/mediator/Friend1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/mediator/Friend2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/mediator/Mediator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/mediator/MediatorMain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/network/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/network/Server.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/network/UrlConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/observer/Observer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/observer/ObserverImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/observer/ObserverMain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/observer/Subject.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/observer/SubjectImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/prototype/AbstractFork.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/prototype/AbstractSpoon.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/prototype/MainPrototype.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/prototype/PrototypeFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/prototype/SaladFork.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/prototype/SaladSpoon.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/prototype/SoupSpoon.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/proxy/ConcreteSubject.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/proxy/Proxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/proxy/ProxyMain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/proxy/Subject.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/singletons/EagerSingleton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/singletons/JavaSingleton$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/singletons/JavaSingleton$SingletonHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/singletons/JavaSingleton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/singletons/LazySingleton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/singletons/LazyThreadSafeSingleton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/singletons/SingletonMain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/strategy/Choice.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/strategy/Context.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/strategy/FirstChoise.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/strategy/SecondChoise.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/strategy/StrategyMain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/telegrambot/BotMain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/telegrambot/TestBot.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/telegrambot/WeatherBot.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/templatemethod/BasicEngineering.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/templatemethod/ComputerScience.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/templatemethod/Electronic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/templatemethod/TemplateMethodMain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/threading/Processor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/threading/ThreadJoin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/threading/ThreadingMain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/visitor/Book.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/visitor/PostageVisitor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/visitor/ShopingChart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/visitor/Visitable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/visitor/Visitor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FrontController/com/company/visitor/VisitorMain.class" afterPath="" />
+    </list>
     <ignored path="FrontController.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,6 +191,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -209,6 +362,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontController" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontController" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -613,7 +780,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="24" width="1920" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -626,7 +793,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24174654" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24174654" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
