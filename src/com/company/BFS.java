@@ -77,7 +77,7 @@ public class BFS {
         }
     }
 
-    class Vertex {
+    static class Vertex {
         String label;
         boolean visited;
 

@@ -1,5 +1,7 @@
 package com.company;
 
+import java.util.*;
+
 /**
  * Created by volodyko on 14.02.17.
  */
@@ -22,5 +24,7 @@ public class BFSMain {
         bfs.addEdege(bfs.getVertex("C"), bfs.getVertex("D"));
 
         bfs.bfs();
+
     }
+
 }
